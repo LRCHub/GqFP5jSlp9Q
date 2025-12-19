@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "此処へ",
+  "base_artist": "KOKO",
+  "createdAt": "2025-12-19T02:45:50.161281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "此処へ",
+      "artist": "幸祜",
+      "has_synced": true,
+      "path": "select/01_此処へ_幸祜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "此処へ",
+      "artist": "KOKO",
+      "has_synced": false,
+      "path": "select/pl_01_此処へ_KOKO.txt"
+    }
+  ]
+}
